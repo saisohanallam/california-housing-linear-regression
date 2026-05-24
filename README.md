@@ -1,2 +1,3 @@
 # california-housing-linear-regression
 Predicting California housing prices using linear regression — built with scikit-learn on the California Housing dataset.
+This project implements a linear regression model to predict median house values across California districts using the classic California Housing dataset (sourced from the 1990 U.S. Census). The pipeline covers data exploration, feature analysis (median income, house age, average rooms, geographic coordinates, and more), preprocessing, model training, and evaluation using metrics like MAE, MSE, and R². Built with Python, scikit-learn, pandas, and matplotlib.
